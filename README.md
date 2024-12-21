@@ -1,4 +1,7 @@
 Bu uygulamayı kotlin ile geliştirdim
+Bu bir haber uygulaması. Spor, sağlık, eğlence, teknoloji,
+iş dünyası veya genel kategoride bir çok güncel habere ulaşabilirsiniz.
+Dilerseniz ayrıntılı şekilde arama yapıp, yapılan aramaya göre de haberlere ulaşabilirsiniz.
 
 Kullanılan Teknolojiler:
 MVVM
