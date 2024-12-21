@@ -1,3 +1,11 @@
+Bu uygulamayı kotlin ile geliştirdim
+
+Kullanılan Teknolojiler:
+MVVM
+Jetpack Compose 
+Retrofit
+Coroutines
+Glide
 
 
 ![image1](https://github.com/user-attachments/assets/1cee728d-d220-4c90-b049-ae9e7e7a39ae)
